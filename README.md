@@ -14,7 +14,7 @@ Python (`numpy`, `pandas`, `matplotlib`), Photoshop
 
 ## 最终完成图
 本项目以2020年3月4日的疫情图为素材进行仿制。  
-人民日报原图尺寸1080*2168@72dpi  
+人民日报原图尺寸1080*2168px@72dpi  
 原文链接：[微博](https://weibo.com/2803301701/Ix2VO4WpH)，[微信公众号](https://mp.weixin.qq.com/s/ZFWx_Ya2CHNWhIe0zOt16A)  
 
 仿制最终完成图尺寸2693*5404px@300dpi  
